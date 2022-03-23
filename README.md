@@ -1,9 +1,11 @@
 ![Latest Release](https://img.shields.io/github/v/release/GwendolyneFreddy/Baldur-s-Goth-Portraits-Collection?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/GwendolyneFreddy/Baldur-s-Goth-Portraits-Collection?color=gold)
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macOS%20%7C%20linux%20%7C%20Project%20Infinity&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French%20%7C%20German%20%7C%20Italian%20%7C%20Russian%20%7C%20Spanish&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20French&color=limegreen)
 
 ![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG%20%7C%20Tutu%20%7C%20BGII%20%7C%20BGT%20%7C%20BG%3AEE%20%7C%20SoD%20%7C%20BG2%3AEE%20%7C%20EET%20%7C%20IWD%20%7C%20%20%7C%20IWD%3AEE%20%7C%20IWD2&color=dodgerblue)
+
+## 
 
 <div align="center"><h1></a>Baldur's Goth Portraits Collection</h1>
 
@@ -33,7 +35,7 @@ IWD2, Tutu, Baldur's Gate Trilogy and EET<h3>
 ## 
 
 <div align="center">
-<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#credits">Credits and Acknowledgements</a> &#8226; <a href="#versions">Version History</a></br>
+<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#">Components</a> &#8226; <a href="#credits">Credits and Acknowledgements</a> &#8226; <a href="#versions">Version History</a></br>
 </div>
 
 <hr>
@@ -51,6 +53,48 @@ This mod is a collection of NPCs portraits gathering the Baldur's Both mods seri
 
 This new version makes all additional custom portraits also available for assignment to your Player Character (PC).
 
-<div align="center"><img src="baldur_goth/readme/images/baldur_goth.png" title="Baldur's Goth II Portraits"></div><br>
+<div align="center"><img src="baldur_goth/readme/images/baldur_goth.png" title="Baldur's Goth II Portraits"></div>
+
+
+<hr>
+
+
+## <a name="compat" id="compat"></a>Compatibility
+
+Baldur's Goth Portraits Collection is designed to work on all Infinity Engine games (including Enhanced Editions) except the original and Enhanced Edition of Planescape: Torment.
+
+&#9755; <a href="https://spellholdstudios.github.io/readmes/baldur_goth-readme-english#compat.html">See more information</a></br>
+
+<hr>
+
+
+## <a name="installation" id="installation"></a>Installation
+
+&#9755; <a href="https://spellholdstudios.github.io/readmes/baldur_goth-readme-english#installation.html">See more information</a></br>
+
+
+<hr>
+
+
+## <a name="components" id="components"></a>Components
+
+The installer includes <a href="https://spellholdstudios.github.io/readmes/baldur_goth-readme-english#compon.html">many components</a>.
+
+
+<hr>
+
+
+## <a name="credits" id="credits"></a>Credits and Acknowledgements
+
+&#9755; <a href="https://spellholdstudios.github.io/readmes/baldur_goth-readme-english#credits.html">See details</a></br>
+
+<hr>
+
+
+## <a name="versions" id="versions"></a>Version History
+
+##### Version 1.0.0 &nbsp;(March , 2022)
+
+- Initial release.
 
 
